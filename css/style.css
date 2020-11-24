@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+.top-container{
+    background-image: url('https://source.unsplash.com/weekly?island');
+    
+    background-repeat: round;
+    height: 350px;
+    
+}
+h1{
+    padding: 50px auto 0 auto;
+    font-family: 'Merriweather', cursive;
+    font-size: 5.625em;
+    color: #496161;
+}
+h2{
+    font-family: "Monoserrat", sans-serif;
+    font-size: 2.0em;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+    
+    font-family: "Monoserrat", sans-serif;
+    font-size: 2.0em;
+    color: #11999E;
+}
+p{
+    
+    font-size: 1em;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom:none;
+    width: 4%;
+    margin: 100px auto; 
+
+}
+a{
+    color: #11999E;
+    font-family: "Monoserrat", sans-serif;
+    margin: 10px ;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6f6;
+}
+
+}
+.contact-message{
+    width: 40%;
+    margin: 20px auto 60px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.image1{
+    width: 25%;
+    height: 20%;
+    float: left;
+    margin-left: 70px;
+}
+.image2{
+    width: 25%;
+    float: right;
+    margin-right: 70px;
+}
+.image3{
+    width: 25%;
+    float: left;
+    margin-left: 70px;
+}
+#skill{
+    margin: 43px;
+    font-size: 23px;
+}
+.footer{
+    background-color: #66BFBF;
+    padding:30px 0 100px;
+}
+#pro{
+    text-decoration: underline;
+}
+.butn {
+    width: 13%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    background: #11CDD4;
+    /* background-image: -webkit-gradient(top,#11CDD4, #11999B); */
+    background-image: -moz-linear-gradient(top,#11CDD4, #11999B);
+    background-image: -ms-linear-gradient(top,#11CDD4, #11999B);
+    background-image: -o-linear-gradient(top,#11CDD4, #11999B);
+    background-image: linear-gradient(top,#11CDD4, #11999B);
+    background-image: linear-gradient(top,#11CDD4, #11999B);
+    -webkit-border-radius: 8;
+    -moz-border-radius:8;
+    border-radius: 8px;
+    font-family: "Monoserrat",sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+
